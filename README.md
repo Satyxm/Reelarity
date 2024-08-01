@@ -1,1 +1,3 @@
 # Reelarity
+
+Movie Recommender App
